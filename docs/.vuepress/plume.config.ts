@@ -13,7 +13,7 @@ export default defineThemeConfig({
   profile: {
     avatar: 'https://cdn.jsdelivr.net/gh/imtsq/My_Pic/67afe7a74dcf0763.jpg',
     name: 'Double小屋',
-    description: '',
+    description: '立志成为游戏开发者,已经失败 (╥_╥), 最近又对python感兴趣挺好玩',
     // circle: true,
     // location: '',
     // organization: '',
