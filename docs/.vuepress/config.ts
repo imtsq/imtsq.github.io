@@ -6,7 +6,7 @@ export default defineUserConfig({
   base: '/',
   lang: 'zh-CN',
   title: 'Double小屋',
-  description: '',
+  description: '立志成为游戏开发者,已经失败 (╥_╥), 最近又对python感兴趣挺好玩',
 
   bundler: viteBundler(),
 
