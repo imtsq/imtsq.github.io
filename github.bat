@@ -19,7 +19,7 @@ git push origin gh-pages --force
 
 echo "........"
 cd ../../..
-rmdir .\docs\.vuepress\dist 
+rmdir /s /q .\docs\.vuepress\dist
 # 将源文件上传GitHub main分支
 git init
 git remote add origin git@github.com:imtsq/imtsq.github.io.git
