@@ -1,0 +1,2 @@
+call ./dist.bat
+pause
